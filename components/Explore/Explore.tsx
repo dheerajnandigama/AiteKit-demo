@@ -20,7 +20,7 @@ export function Explore() {
           skin <span style={{ color: '#46583D' }}>balance</span> is yours
         </Text>
         <Text className={classes.caption}>
-          your skin is perfection with <br /> aitekit
+          Your skin is perfection with <br /> aitekit
         </Text>
       </Group>
       <Grid>
