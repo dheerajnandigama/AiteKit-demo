@@ -1,0 +1,21 @@
+.explore{
+    padding: 8px;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text{
+    font-weight: 700;
+    font-size: 80px;
+}
+
+.caption{
+    font-weight: 500;
+    font-size: 32px;
+    color: #694F35;
+}
+
+.bx{
+    background-color: #46583D;
+}
